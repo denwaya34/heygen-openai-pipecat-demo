@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.bridgecrew.services.ResultsService">
+    <option name="categories">
+      <map>
+        <entry key="IAC">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="SCA">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="SECRETS">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="LICENSES">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="WEAKNESSES">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="OSS">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="UNCATEGORIZED">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
